@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "983597005932",
+    "project_id": "auth-employe",
+    "storage_bucket": "auth-employe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983597005932:android:d43c4321945cb6a1052c49",
+        "android_client_info": {
+          "package_name": "com.google.firebase.presents.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNlH2_Xk3vfSHPff6_Tt5fbJ6tLduGecU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
